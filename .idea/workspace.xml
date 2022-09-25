@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="160d3686-9055-4fd1-9044-089a3526f8d7" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/MainHW3.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestClass.java" afterDir="false" />
+    <list default="true" id="160d3686-9055-4fd1-9044-089a3526f8d7" name="Changes" comment="v 1.0.0&#10;&#10;Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/MainHW3.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainHW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainHW3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Alexey &lt;a.d.kamenev@yandex.ru&gt;" />
         <option value="alex &lt;a.d.kamenev@yandex.ru&gt;" />
       </list>
     </option>
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663918495522</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v 1.0.0&#10;&#10;Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/MainHW3.java">
+      <created>1664134174698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664134174698</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +115,7 @@
     <MESSAGE value="HW3Alg &#10;v 0.0.3&#10;приведен в рабоу метод для генерации случайного массива с пропущенным числом." />
     <MESSAGE value="v 0.0.2&#10;в разработке метод генерации. отрабатывает 0 вместо пропуска." />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/MainHW3.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/MainHW3.java" />
+    <MESSAGE value="v 1.0.0&#10;&#10;Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/MainHW3.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="v 1.0.0&#10;&#10;Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/MainHW3.java" />
   </component>
 </project>
