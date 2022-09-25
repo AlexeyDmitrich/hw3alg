@@ -27,23 +27,23 @@ public class TestClass {
     public static int[] generator(int len){
         int length = len;
         int[] arr = new int[length];
-            int xNumber = (rnd.nextInt(length - 2) + 2);
-            if (xNumber >= 0 && xNumber <= length) {
-                int start = 1;
+        int xNumber = (rnd.nextInt(length - 2) + 2);
+        if (xNumber >= 0 && xNumber <= length) {
+            int start = 1;
 
-                for (int i = 0; i < xNumber; i++) {
-                    arr[i] = start;
-                    start++;
-                }
+            for (int i = 0; i < xNumber; i++) {
+                arr[i] = start;
                 start++;
-                for (int i = xNumber; i < arr.length; i++) {
-                    arr[i] = start;
-                    start++;
-                }
             }
-            else {
-                generator(length);
+            start++;
+            for (int i = xNumber; i < arr.length; i++) {
+                arr[i] = start;
+                start++;
             }
+        }
+        else {
+            generator(length);
+        }
         return arr;
     }
 
